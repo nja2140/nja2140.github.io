@@ -1,5 +1,5 @@
 ---
-title: "Naina Ahuja's website"
+title: "Naina Ahuja's Academic and Professional Experience"
 output: 
   html_document:
     toc: true
@@ -7,6 +7,6 @@ output:
     theme: cerulean
 ---
 
-# This is Naina's website
+My name is Naina Ahuja and I am making a new page. 
 
 
