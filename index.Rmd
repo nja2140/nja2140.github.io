@@ -10,3 +10,9 @@ output:
 # This is Naina's website
 
 You can learn more about me [here](Naina-s-Academic---Professional-Experience.html)
+
+#Naina's Github Account
+You can view my other data science projects [here](https://github.com/nja2140/)
+
+#Naina's LinkedIn
+You can learn more details about my professional and academic background by connecting with me on LinkedIn [here](https://www.linkedin.com/in/naina-ahuja-429992b7/)
