@@ -7,12 +7,17 @@ output:
     theme: cerulean
 ---
 
-# This is Naina's website
+Welcome to my website! 
+
+# About Naina
 
 You can learn more about me [here](Naina-s-Academic---Professional-Experience.html)
 
-#Naina's Github Account
+# Naina's Github 
 You can view my other data science projects [here](https://github.com/nja2140/)
 
-#Naina's LinkedIn
+# Email Naina
+Feel free to contact me at my [email](naina.jessica@gmail.com)
+
+# Naina's LinkedIn
 You can learn more details about my professional and academic background by connecting with me on LinkedIn [here](https://www.linkedin.com/in/naina-ahuja-429992b7/)
