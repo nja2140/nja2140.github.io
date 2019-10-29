@@ -24,7 +24,7 @@ You can learn more details about my professional and academic background by conn
 
 # Gif Galore
 
-<img src="https://giphy.com/gifs/panda-angry-breaking-EPcvhM28ER9XW" style="width:75%"
+<iframe src="https://giphy.com/embed/l1K9DEnvb9hJZ8jgA" width="417" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactionseditor-dancing-hot-dog-l1K9DEnvb9hJZ8jgA">via GIPHY</a></p>
 
 ! [](https://giphy.com/gifs/panda-angry-breaking-EPcvhM28ER9XW)
 
