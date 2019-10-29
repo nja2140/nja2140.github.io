@@ -11,39 +11,40 @@ My name is Naina Ahuja and I am a second year epidemiology student at Columbia U
 
 Here is a snapshot of my relevant experience:
 
-EDUCATION
+EDUCATION **bold**
 
-Columbia University Mailman School of Public Health					                            Masters of Public Health in Epidemiology, Certificate in Global Health         
+Columbia University Mailman School of Public Health	*italic*	
+Masters of Public Health in Epidemiology, Certificate in Global Health
 Sep 2018- May 2020 (Expected)
 Relevant Coursework: Epidemiology I-III, Data Science, Applied Regression, Categorical Analysis of Data
 
-Santa Clara University 			                                          			           
-Bachelor of Science in Public Health and Psychology, Minor in Biology 			        
+Santa Clara University *italic*	
+Bachelor of Science in Public Health and Psychology, Minor in Biology 
 Dec 2015	
 
-WORK EXPERIENCE
+WORK EXPERIENCE **bold**
 
-UNICEF 		             						
+UNICEF *italic*
 Health Data Intern (Implementation Research and Delivery Science Unit)			        
 New York, NY
 Nov 2019-Present
 
-International Well Building Institute 		             						
+International Well Building Institute *italic*
 Public Health Research Intern (Standard Development)	
 New York, NY
 Sep 2019-Present
  	
-Public Health Foundation of India: Center for Chronic Disease Control			         
+Public Health Foundation of India: Center for Chronic Disease Control *italic*
 Research Intern	
 New Delhi, India
 Summer 2019
 
-Columbia University Mailman School of Public Health/Maestral/UNICEF		             
+Columbia University Mailman School of Public Health/Maestral/UNICEF *italic*
 Research Intern		
 New York, NY
 Feb 2019-May 2019
 
-Stanford University Prevention Research Center  	  
+Stanford University Prevention Research Center *italic*
 Social Science Research Professional I
 Palo Alto, CA
 Jan 2016-March 2019 March 2019          	               
