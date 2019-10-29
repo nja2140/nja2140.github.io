@@ -7,7 +7,7 @@ output:
     theme: cerulean
 ---
 
-Welcome to my website! 
+Welcome to a website that is all about me! 
 
 # About Naina
 
@@ -21,3 +21,5 @@ Feel free to contact me at my [email](naina.jessica@gmail.com)
 
 # Naina's LinkedIn
 You can learn more details about my professional and academic background by connecting with me on LinkedIn [here](https://www.linkedin.com/in/naina-ahuja-429992b7/)
+
+#Fun Pictures
