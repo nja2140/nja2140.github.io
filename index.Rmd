@@ -7,20 +7,7 @@ output:
     theme: cerulean
 ---
 
-Welcome to a website that is all about me! 
-
-# About Naina
-
-You can learn more about me [here](Naina-s-Academic---Professional-Experience.html)
-
-# Naina's Github 
-You can view my other data science projects [here](https://github.com/nja2140/)
-
-# Email Naina
-Feel free to contact me at my [email](naina.jessica@gmail.com)
-
-# Naina's LinkedIn
-You can learn more details about my professional and academic background by connecting with me on LinkedIn [here](https://www.linkedin.com/in/naina-ahuja-429992b7/)
+Welcome to a website that is all about me! My name is Naina Ahuja and I am from Seattle, Washington. I am an experienced public health researcher, with a focus on chronic disease prevention. I hope to combine my quantitative methodological skills with my professional experience in community-based participatory research to create measurable and scalable interventions to improve child health outcomes for underserved global populations. 
 
 # Gif Galore
 
