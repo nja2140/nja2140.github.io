@@ -1,5 +1,5 @@
 ---
-title: "Naina Ahuja's Academic and Professional Experience"
+title: "Naina Ahuja's Academic & Professional Experience"
 output: 
   html_document:
     toc: true
