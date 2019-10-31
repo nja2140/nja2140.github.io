@@ -19,7 +19,6 @@ library(flexdashboard)
 ```
 
 ```{r}
-set.seed(1)
 data("instacart")
 instacart
 
@@ -38,5 +37,15 @@ order_time=
   count(days_since_prior_order, sort = TRUE) %>% 
   plot_ly(x = ~days_since_prior_order, y = ~n,  type = "scatter", mode = "markers", color = "pink", alpha = 0.5)
 order_time
+```
+```{r}
+plot_3=
+  instacart %>% 
+  filter(department == "pantry" | 
+         department == "household" |
+         department == "snacks") %>%
+  plot_ly(x = ~department, y = ~order_hour_of_day, color = "department", type = "violin", colors = "purple")
+
+plot_3
 ```
 
