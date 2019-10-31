@@ -1,0 +1,35 @@
+---
+title: "Plotly FlexDashboard"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+Interactive graphics!!
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+library(plotly)
+library(flexdashboard)
+```
+
+```{r}
+set.seed(1)
+data("instacart")
+instacart
+
+order_time=
+  instacart %>% 
+  count(department) %>% 
+  mutate(department = fct_reorder(department, n)) %>%  
+  top_n(10) %>% 
+  plot_ly(x = ~department, y = ~n, color = ~department, type = "bar")
+order_time
+```
+
+

@@ -5,8 +5,10 @@ navbar:
   right:
     - text: "About"
       href: Naina-s-Academic---Professional-Experience.html
-    - text: "Plotly"
-      href: plotly.html
+    - text: Examples
+      menu:
+      - text: "Dashboard"
+        href: Dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<naina.jessica@gmail.com>
     - icon: fa-github fa-lg
