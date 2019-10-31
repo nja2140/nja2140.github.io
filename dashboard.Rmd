@@ -23,13 +23,20 @@ set.seed(1)
 data("instacart")
 instacart
 
-order_time=
+department=
   instacart %>% 
   count(department) %>% 
   mutate(department = fct_reorder(department, n)) %>%  
   top_n(10) %>% 
   plot_ly(x = ~department, y = ~n, color = ~department, type = "bar")
-order_time
+department
 ```
 
+```{r}
+order_time=
+  instacart %>% 
+  count(days_since_prior_order, sort = TRUE) %>% 
+  plot_ly(x = ~days_since_prior_order, y = ~n,  type = "scatter", mode = "markers", color = "pink", alpha = 0.5)
+order_time
+```
 
