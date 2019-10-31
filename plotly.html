@@ -347,7 +347,7 @@ div.tocify {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="Naina-s-Academic---Professional-Experience.html">About Naina</a>
+  <a href="Naina-s-Academic---Professional-Experience.html">About</a>
 </li>
 <li>
   <a href="plotly.html">Plotly</a>
@@ -385,6 +385,52 @@ div.tocify {
 
 
 <p>Interactive graphics!!</p>
+<pre class="r"><code>set.seed(1)
+data(&quot;instacart&quot;)
+instacart</code></pre>
+<pre><code>## # A tibble: 1,384,617 x 15
+##    order_id product_id add_to_cart_ord… reordered user_id eval_set
+##       &lt;int&gt;      &lt;int&gt;            &lt;int&gt;     &lt;int&gt;   &lt;int&gt; &lt;chr&gt;   
+##  1        1      49302                1         1  112108 train   
+##  2        1      11109                2         1  112108 train   
+##  3        1      10246                3         0  112108 train   
+##  4        1      49683                4         0  112108 train   
+##  5        1      43633                5         1  112108 train   
+##  6        1      13176                6         0  112108 train   
+##  7        1      47209                7         0  112108 train   
+##  8        1      22035                8         1  112108 train   
+##  9       36      39612                1         0   79431 train   
+## 10       36      19660                2         1   79431 train   
+## # … with 1,384,607 more rows, and 9 more variables: order_number &lt;int&gt;,
+## #   order_dow &lt;int&gt;, order_hour_of_day &lt;int&gt;,
+## #   days_since_prior_order &lt;int&gt;, product_name &lt;chr&gt;, aisle_id &lt;int&gt;,
+## #   department_id &lt;int&gt;, aisle &lt;chr&gt;, department &lt;chr&gt;</code></pre>
+<pre class="r"><code>aisle_scatter=instacart %&gt;%
+  janitor::clean_names() %&gt;%
+  group_by(aisle) %&gt;%
+  summarize(n = n()) %&gt;%
+  arrange(desc(n))
+  ggplot(aisle_scatter, aes(x = aisle, y =n)) +
+  geom_point(color = &quot;turquoise&quot;) +
+  theme(
+    axis.text.x = element_text(angle = 90, hjust = 1), 
+    axis.text = element_text(size = 7.5)) +
+  labs(
+    title = &quot;Number of items ordered in each aisle&quot;,
+    x = &quot;Aisle&quot;,
+    y = &quot;Number of products&quot;
+  )</code></pre>
+<p><img src="plotly_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<pre class="r"><code>hour_graph=instacart %&gt;%
+  filter(product_name == &quot;Pink Lady Apples&quot; | 
+         product_name == &quot;Coffee Ice Cream&quot;) %&gt;%
+  group_by(product_name, order_dow) %&gt;%
+  summarize(mean_order_hour= mean(order_hour_of_day)) %&gt;%
+  select(product_name, order_dow, mean_order_hour) %&gt;%
+  pivot_wider(
+    names_from = order_dow,
+    values_from = mean_order_hour
+  ) </code></pre>
 
 
 

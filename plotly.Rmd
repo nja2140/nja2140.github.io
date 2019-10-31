@@ -39,3 +39,17 @@ aisle_scatter=instacart %>%
   )
 ```
 
+```{r}
+hour_graph=instacart %>%
+  filter(product_name == "Pink Lady Apples" | 
+         product_name == "Coffee Ice Cream") %>%
+  group_by(product_name, order_dow) %>%
+  summarize(mean_order_hour= mean(order_hour_of_day)) %>%
+  select(product_name, order_dow, mean_order_hour) %>%
+  pivot_wider(
+    names_from = order_dow,
+    values_from = mean_order_hour
+  ) 
+
+```
+
