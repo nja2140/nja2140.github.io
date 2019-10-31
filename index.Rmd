@@ -7,10 +7,6 @@ output:
     theme: cerulean
 ---
 
-# Dashboard
-
-Check out these graphics [here](dashboard.html)
-
 Welcome to a website that is all about me! My name is Naina Ahuja and I am from Seattle, Washington. I am an experienced public health researcher, with a focus on chronic disease prevention. I hope to combine my quantitative methodological skills with my professional experience in community-based participatory research to create measurable and scalable interventions to improve child health outcomes for underserved global populations. 
 
 # Gif Galore
