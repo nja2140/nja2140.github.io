@@ -17,10 +17,13 @@ library(plotly)
 library(flexdashboard)
 ```
 
-```{r}
+```{r, include=FALSE}
 data("instacart")
 instacart
-
+```
+Column {data-width=650}
+# Plot 1: Top Ten Orders by Department
+```{r}
 department=
   instacart %>% 
   count(department) %>% 
@@ -29,7 +32,8 @@ department=
   plot_ly(x = ~department, y = ~n, color = ~department, type = "bar")
 department
 ```
-
+Column {data-width=350}
+# Plot 2: Distribution of Days since prior order
 ```{r}
 order_times=
   instacart %>% 
@@ -37,6 +41,7 @@ order_times=
   plot_ly(x = ~days_since_prior_order, y = ~n,  type = "scatter", mode = "markers", color = "pink", alpha = 0.5)
 order_times
 ```
+#Plot 3: Distribution of time products ordered from 3 departments
 ```{r}
 plot_3=
   instacart %>% 
@@ -44,7 +49,6 @@ plot_3=
          department == "household" |
          department == "snacks") %>%
   plot_ly(x = ~department, y = ~order_hour_of_day, color = "department", type = "violin", colors = "purple")
-
 plot_3
 ```
 
