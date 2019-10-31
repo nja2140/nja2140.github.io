@@ -1,7 +1,9 @@
 ---
 title: "Plotly FlexDashboard"
 output: 
-  html_document:
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
     toc: true
     toc_float: true
     theme: cerulean
