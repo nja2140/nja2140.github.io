@@ -47,5 +47,4 @@ plot_3=
 
 plot_3
 ```
-rmarkdown::render("dashboard.Rmd", output_format = "flexdashboard::flex_dashboard")
 
