@@ -4,7 +4,9 @@ navbar:
   title: "Home"
   right:
     - text: "About"
-      href: Naina-s-Academic---Professional-Experience.htmll
+      href: Naina-s-Academic---Professional-Experience.html
+    - text: "Dashboard"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<naina.jessica@gmail.com>
     - icon: fa-github fa-lg

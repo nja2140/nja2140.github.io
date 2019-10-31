@@ -34,11 +34,11 @@ department
 ```
 
 ```{r}
-order_time=
+order_times=
   instacart %>% 
   count(days_since_prior_order, sort = TRUE) %>% 
   plot_ly(x = ~days_since_prior_order, y = ~n,  type = "scatter", mode = "markers", color = "pink", alpha = 0.5)
-order_time
+order_times
 ```
 ```{r}
 plot_3=
@@ -50,4 +50,5 @@ plot_3=
 
 plot_3
 ```
+rmarkdown::render("dashboard.Rmd", output_format = "flexdashboard::flex_dashboard")
 

@@ -7,7 +7,7 @@ output:
     theme: cerulean
 ---
 
-I am a second year epidemiology student at Columbia University's Mailman School of Public Health.Here is a snapshot of my relevant experience:
+I am a second year epidemiology student at Columbia University's Mailman School of Public Health. Here is a snapshot of my relevant experience:
 
 **EDUCATION** 
 
