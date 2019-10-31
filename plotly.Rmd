@@ -7,4 +7,35 @@ output:
     theme: cerulean
 ---
 
-Interactive graphics!
+Interactive graphics!!
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+library(plotly)
+```
+
+```{r}
+set.seed(1)
+data("instacart")
+instacart
+
+aisle_scatter=instacart %>%
+  janitor::clean_names() %>%
+  group_by(aisle) %>%
+  summarize(n = n()) %>%
+  arrange(desc(n))
+  ggplot(aisle_scatter, aes(x = aisle, y =n)) +
+  geom_point(color = "turquoise") +
+  theme(
+    axis.text.x = element_text(angle = 90, hjust = 1), 
+    axis.text = element_text(size = 7.5)) +
+  labs(
+    title = "Number of items ordered in each aisle",
+    x = "Aisle",
+    y = "Number of products"
+  )
+```
+
