@@ -1,21 +1,25 @@
 ---
-title: "Naina Ahuja's website"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    theme: cerulean
+title: "Naina Ahuja"
+output: html_document
 ---
 
-Welcome to a website that is all about me! My name is Naina Ahuja and I am from Seattle, Washington. I am an experienced public health researcher, with a focus on chronic disease prevention. I hope to combine my quantitative methodological skills with my professional experience in community-based participatory research to create measurable and scalable interventions to improve child health outcomes for underserved global populations. 
+Digital Health & GIS Consultant at [UNICEF](https://unicef.org)<br>
+Global Health Epidemiologist
 
-# Gif Galore
+<br><img src="images/mypic.jpg" style="width:30%"><br>
 
-<iframe src="https://giphy.com/embed/6tGtnXzRL1m8M" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/panda-6tGtnXzRL1m8M">via GIPHY</a></p>
-Me when I can't get my Plotly Flex Dashboard to work
+**About** 
 
-<iframe src="https://giphy.com/embed/l1K9DEnvb9hJZ8jgA" width="417" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactionseditor-dancing-hot-dog-l1K9DEnvb9hJZ8jgA">via GIPHY</a></p>
-Me when the next data science homework gets assigned
+I obtained my BS in Public Health and Psychology (December 2015) from [Santa Clara University](https://www.scu.edu/). I obtained my MPH (May 2020) in Epidemiology and Global Health from [Columbia University](https://www.publichealth.columbia.edu/). My thesis focused on neighborhood-level built environment features and its correlation with cardiometabolic risk factors. 
 
-<iframe src="https://giphy.com/embed/E3L5goMMSoAAo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/amy-schumer-E3L5goMMSoAAo">via GIPHY</a></p>
-Me while doing data science homework
+My current interests include improving maternal, child and adolescent health in underserved and vulnerable communities, digital health, community health, implementation science and research to support evidence informed decision making and improving implementation at scale for better health outcomes.
+
+<br>
+
+**Contact Information** 
+
+Naina Ahuja, MPH<br>
+Email: [naina.jessica@gmail.com](mailto:naina.jessica@gmail.com)
+
+
+
