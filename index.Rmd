@@ -10,7 +10,7 @@ Global Health Epidemiologist
 
 **About** 
 
-I obtained my BS in Public Health and Psychology (December 2015) from [Santa Clara University](https://www.scu.edu/). I obtained my MPH (May 2020) in Epidemiology and Global Health from [Columbia University](https://www.publichealth.columbia.edu/). My thesis focused on neighborhood-level built environment features and its correlation with cardiometabolic risk factors. 
+I obtained my BS in Public Health and Psychology (December 2015) from [Santa Clara University](https://www.scu.edu/). I obtained my MPH (May 2020) in Epidemiology and Global Health from [Columbia University](https://www.publichealth.columbia.edu/). My thesis focused on neighborhood-level built environment features and its correlation with cardiometabolic risk factors such as bmi, high blood pressure, and diabetes. 
 
 My current interests include improving maternal, child and adolescent health in underserved and vulnerable communities, digital health, community health, implementation science and research to support evidence informed decision making and improving implementation at scale for better health outcomes.
 
