@@ -21,7 +21,7 @@ Dec 2015
 **WORK EXPERIENCE**
 
 *UNICEF*
-
+<br>
 Digital Health & GIS Consultant (Implementation Research and Delivery Science Unit)			      
 New York, NY
 <br>
@@ -42,9 +42,9 @@ New Delhi, India
 <br>
 Summer 2019
 
-*Columbia University Mailman School of Public Health/Maestral/UNICEF*
+*Columbia University Mailman School of Public Health*
 <br>
-Research Intern		
+Research Intern
 <br>
 New York, NY
 <br>
