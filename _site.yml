@@ -16,7 +16,7 @@ navbar:
     - icon: fa-github fa-lg
       href: https://github.com/nja2140/
     - icon: fab fa-linkedin
-      href: https://www.linkedin.com/in/naina-ahuja-mph-429992b7/
+      href: www.linkedin.com/in/naina-ahuja-mph-429992b7
 output:
   html_document:
     theme: journal 
