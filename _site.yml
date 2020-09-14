@@ -7,6 +7,10 @@ navbar:
       href: Resume.html
     - text: "Research"
       href: Research.html
+    - text: "GIS Projects"
+      href: GIS Projects.html
+  
+  right:
     - icon: fa-envelope fa-lg
       href: mailto:<naina.jessica@gmail.com>
     - icon: fa-github fa-lg
@@ -15,3 +19,4 @@ navbar:
       href: https://www.linkedin.com/in/naina-ahuja-429992b7/
 output:
   html_document:
+    theme: journal 
