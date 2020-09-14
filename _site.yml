@@ -2,9 +2,11 @@ name: "Naina Ahuja"
 output_dir: "."
 navbar:
   title: "Home"
-  right:
+  left:
     - text: "Resume"
       href: Resume.html
+    - text: "Research"
+      href: Research.html
     - icon: fa-envelope fa-lg
       href: mailto:<naina.jessica@gmail.com>
     - icon: fa-github fa-lg

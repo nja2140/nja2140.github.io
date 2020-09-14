@@ -1,0 +1,44 @@
+---
+title: "Research"
+output: html_document
+---
+
+**Research Interests** <br>
+My current research focuses on four main areas:
+
+1. The uptake and sustainability of digital learning platforms for health workers in low bandwidth settings. This includes identifying the minimum requirements the platforms should meet and what considerations should be taken into account in the assessment and deployment of such platforms.
+
+2. Identify and summarize evidence on existing applications and use cases of geospatial data, technologies and methods to strengthen community health systems and interventions globally, with measurable impact.
+
+3. Assess built environment features and its correlation with cardiometabolic disease risk factors, including body mass index (BMI), hypertension and diabetes.
+
+4. Accelerate the science of well-being for chronic disease prevention in underserved and vulnerable communities nationally and globally.  
+<br>
+
+**Publications** 
+
+1. **Ahuja NJ**, Nguyen A, Winter SJ, Freeman M, Shi R, Rodriguez Espinoza P, Heaney CA. Well-being Without a Roof: Examining Well-being Among Unhoused Individuals Using Mixed Methods and Propensity Score Matching. International Journal of Environmental Research and Public Health. Manuscript submitted for publication.
+
+2. Gali Kathleen, Winter SJ, **Ahuja NJ**, Frank E, Prochaska J. Changes in cannabis use, exposure, and health perceptions following legalization of adult recreational cannabis use in California: A prospective observational study. Cannabis and Cannabinoid Research. Manuscript submitted for publication.
+
+3. Heaney CA, Rich T, Avery E, Min Y, Chrisinger B, **Ahuja NJ**, Winter SJ. A qualitative exploration of well-being: What is well-being? How do we know? Why do we care?. Social Science and Medicine. Manuscript submitted for publication.
+
+4. Heaney CA, Avery E, Rich T, **Ahuja N**, Winter SJ. Stanford WELL for Life: Learning What It Means to Be WELL. Journal of the Art of Health Promotion, Sept 2017. 31 (5): 444-456.  Article first published online: August 21, 2017; Issue published: September 1, 2017. [Link to article](https://journals.sagepub.com/doi/pdf/10.1177/0890117117725842#page=6)
+
+**Presentations**
+
+1. Brief Behavior Change Interventions as a Tool to Enhance Recruitment and Engagement for Participants in an Online Registry. Winter, Jarnagin, **Ahuja**, Gustafson, Avery, Gardner. Society of Behavioral Medicine. Washington DC. March 2019. 
+
+2. Changes in cannabis use, attitudes, and policy support following legalization of recreational use in California. Prochaska, Gali, Winter, **Ahuja**, Frank. American Public Health Association. San Diego. November 2018. 
+
+3. Unexpected Findings when comparing the well-being of a matched sample of unhoused and housed individuals. **Ahuja**, Nguyen, Winter, Hedlin, Kaimal, Heaney. American Public Health Association. San Diego. November 2018. 
+
+4. Well-Being Over the Life Course. **Ahuja**, Winter, Hedlin, Kaimal, Heaney. Society of Behavioral Medicine. New Orleans. March 2018
+
+5. Well-Being Over the Life Course: Changes and Adaptations. Heaney, Rich, Evered, **Ahuja**, Avery, Winter, International Association of Geriatrics and Gerontology. San Francisco. July 2017
+
+6. Fostering Safe and Healthy Community Parks: Promoting Partnership Problem-Solving (A Partnership with the Santa Clara County Public Health Department). **Ahuja**, Rodriguez, Winter, Banchoff, Broderick, Seavey-Hultquist, Hackett, Fontanilla, King.  Office of Community Health, Palo Alto, January 2017
+
+
+
+
